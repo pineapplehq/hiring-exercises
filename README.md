@@ -14,7 +14,7 @@ These are **NOT** *coding exercises*. The goal of these exercises is to give you
 
 We know that the technical hiring processes in our industry are generally broken. We also know that there are mixed opinions on take-home exercises in general. The primary reasons we ask candidates of *all* levels to complete these exercises are as follows.
 
-1. 🌎   We're a fully-remote team spread across multiple time zones and we hire candidates from across time and space. Async exercises allow you to show off your skills at a time/place that works for you.
+1. 🌎  We're a fully-remote team spread across multiple time zones and we hire candidates from across time and space. Async exercises allow you to show off your skills at a time/place that works for you.
 
 2. ⏳   Take-home exercises allow you to work at your own pace. We intentionally structure these to take around 1-3ish hours of time and ask that you limit your investment to no more than the suggested time, however you are free to break this into as many sessions as you wish.
 
