@@ -25,7 +25,7 @@ We know that the technical hiring processes in our industry are generally broken
 
 5. 🧰   It allows you to use the tools, languages, and frameworks where you are the most productive.
 
-## Instructions
+## General Instructions
 
 1. Choose an exercise directory that matches your primary domain. This is the area in which you feel the most comfortable and have the higest degree of mastery
     * [frontend](frontend/instructions.md)
@@ -34,19 +34,25 @@ We know that the technical hiring processes in our industry are generally broken
     * [devops](devops/instructions.md)
 
 
-2. Read the `instructions.md` file in the matching directory. Be sure to read the instructions carefully and ask any clarifying questions either via [Github issues](https://github.com/pineapplehq/hiring-exercises/issues) on by emailing hiring@heywelcome.com
+2. Read the `instructions.md` file in the matching directory. Be sure to read the instructions carefully and ask any clarifying questions either via [Github issues](https://github.com/pineapplehq/hiring-exercises/issues) or by emailing hiring@heywelcome.com
 
 3. Create a new **private repository** for your exercise and add [Raul @ Welcome](https://github.com/rgil90) and [Dan @ Welcome](https://github.com/thoughtpunch) as private collaborators.
 
-4. Complete as much of the exercise as you can in 3 hours or less. Use any language, framework, or toolchain you wish, although ideally this would be Python, Javascript, or/or SQL (purely because those are the languages we use to build Welcome and will be the most familiar with). Some things we'd like to see are....
+4. Complete as much of the exercise as you can in 3 hours or less. Unless otherwise specified in the `instructions.md` document, you can use any language, framework, or toolchain you wish, although ideally this would be Python, Javascript, and SQL (purely because those are the languages we use to build Welcome and will be the most familiar with)
+
+5. Be sure to include the following in your submission
     * a `README.md` with the following information
-        * A short explanation of what you tried to accomplish
+        * The exercise you choose and why
+        * A short explanation of what you built
         * How to test/demo/run (if applicable)
-            * NOTE: a 'working' exercise is NOT a requirement. We mean it!
-    * a super-simple test suite (even one test is a bonus)
-    * Some form of lightweight technical documentation
-    * a `ROADMAP.md` with what you would do if you had more time.
+            * NOTE: a 'working' exercise is awesome, however it is NOT a hard requirement. We mean it!
+        * Any feedback/notes (i.e. if something was hard, confusing, frustrating, etc)
+        * Anything else you'd lke us to know about your submission
+    * a `ROADMAP.md` with what you would add/change if you had more time. Dream big.
+    * a super-simple test suite if applicable (even one test is a bonus)
+    * Some form of lightweight technical documentation (code comments are fine)
+    
 
-4. When complete email a link to the repository and any special instructions to hiring@heywelcome.com
+5. When complete email a link to the repository and any special instructions to hiring@heywelcome.com
 
-5. Sit back and relax. We'll review your submission and get back to you within 48 hours :smiley:
+6. Sit back and relax. We'll review your submission and get back to you within 48 hours :smiley:

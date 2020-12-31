@@ -10,12 +10,12 @@ DOCS:       nice to have, but not mandatory
 
 
 # Overview
-This exercise is to implement the best possible solution to given criteria in the time alloted. We're evaluating your ability to take a set of requirements and spike a holistic solution that demonstrates craftsmanship and thoughtfulness. Ideally your solution would have some way to run locally and visualize the results in a browser so we can fully analyze the experience and not just the source code.
+This exercise is to implement the best possible solution to one of the exercises below in the time alloted. We're evaluating your ability to take a set of requirements and spike a holistic solution that demonstrates craftsmanship, thoughtfulness and attention to user experience. This is **NOT** a test of how well you know React or ES7+, nor should you try to impress us with overly clever and obtuse solutions. If you want to impress us, build something that is beautiful, intuitive and easy to debug/test/extend :smiley: .
 
-# Requirements
-* Your implementation should be in React or vanilla javascript
-* Feel free to use any libraries or frameworks you desire
-# Exercises
+Ideally your solution would have some way to run locally and visualize the results in a browser so we can fully analyze the experience and not just the source code.
+
+
+# Choose One Of the following...
 --------------
 ## Exercise A: Creating an offer
 ###  As a hiring manager I want to...
@@ -38,3 +38,8 @@ This exercise is to implement the best possible solution to given criteria in th
     * **stretch goal**: be able to sort or search by any unique identifiers (name, email, etc) so I can find specific rows
 * View simple visualization(s) of the distribution of salary compensation so I can get an overview/aggregate of overall compensation
     * **stretch goal**: be able to visualize data across more than one dimension
+---------
+
+# Submitting your exercise
+
+1. See [instructions for submitting your work](https://github.com/pineapplehq/hiring-exercises/blob/master/README.md#instructions)
