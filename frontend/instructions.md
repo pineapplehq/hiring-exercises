@@ -42,4 +42,4 @@ Ideally your solution would have some way to run locally and visualize the resul
 
 # Submitting your exercise
 
-1. See [instructions for submitting your work](https://github.com/pineapplehq/hiring-exercises/blob/master/README.md#instructions)
+1. See [instructions for submitting your work](https://github.com/pineapplehq/hiring-exercises/blob/master/README.md#general-instructions)

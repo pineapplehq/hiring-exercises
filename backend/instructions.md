@@ -2,8 +2,8 @@
 
 ```
 TIMEBOX:    1-2 hours max. We mean it!
-LANGUAGES:  any
-FRAMEWORKS: any
+LANGUAGES:  Python
+FRAMEWORKS: Django or Flask
 TESTS:      nice to have, but not manditory
 DOCS:       nice to have, but not manditory
 ```
