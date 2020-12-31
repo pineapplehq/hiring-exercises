@@ -1,4 +1,6 @@
-![welcome logo!](https://uploads-ssl.webflow.com/5e53726b33d36812c63e9d2c/5e54af479261fb9ed485f157_logo-horizontal.svg)
+![welcome logo!](https://dka575ofm4ao0.cloudfront.net/pages-transactional_logos/retina/186505/03_Welcome_Color_Black_Wordmark_Horizontal.png)
+
+For current open positions, see https://angel.co/company/welcomehq 👩‍💻
 
 ------------------
 
@@ -11,23 +13,23 @@ In order to move forward, we'd like to know a little about how you work. To that
 
 These are **NOT** *coding exercises*. The goal of these exercises is to give you an asynchronous medium for demonstrating how you would break down a set of user stories and requirements into something akin to a rapid POC/spike. There is no grading or scoring, nor is it pass-fail, rather these are meant to serve a sample of your reductive thought processes as an engineer.
 
-## First, a few words about Take-home exercises...
+## First, a few words about asynchronous/take-home exercises...
 
 We know that the technical hiring processes in our industry are generally broken. We also know that there are mixed opinions on take-home exercises in general. The primary reasons we ask candidates of *all* levels to complete these exercises are as follows.
 
-1. 🌎  We're a fully-remote team spread across multiple time zones and we hire candidates from across time and space. Async exercises allow you to show off your skills at a time/place that works for you.
+* 🌎  ~ We're a fully-remote team spread across multiple time zones and we hire candidates from across time and space. Async exercises allow you to show off your skills at a time/place that works for you. 
 
-2. ⏳   Take-home exercises allow you to work at your own pace. We intentionally structure these to take around 1-3ish hours of time and ask that you limit your investment to no more than the suggested time, however you are free to break this into as many sessions as you wish.
+* ⏳  ~ Take-home exercises allow you to work at your own pace. We intentionally structure these to take around 1-3ish hours of time and ask that you limit your investment to no more than the suggested time, however you are free to break this into as many sessions as you wish.
 
-3. 🛠   It matches the nature of our work. Most of being an engineer on a remote team is self-directed exploration of a problem, followed by period(s) of cyclic work/edit/review, followed by submittal for review and approval by your peers. Async exercises allow you to do the same.
+* 🛠 ~ It matches the nature of our work. Most of being an engineer on a remote team is self-directed exploration of a problem, followed by period(s) of cyclic work/edit/review, followed by submittal for review and approval by your peers. Async exercises allow you to do the same.
 
-4. 👁   It eliminates the performance anxiety of forced-pairing with someone whom you've just met. 
+* 👁 ~ It eliminates the performance anxiety of forced-pairing with someone whom you've just met. 
 
-5. 🧰   It allows you to use the tools, languages, and frameworks where you are the most productive.
+* 🧰 ~ It allows you to use the tools, languages, and frameworks where you are the most productive.
 
 ## General Instructions
 
-1. Choose an exercise directory that matches your primary domain. This is the area in which you feel the most comfortable and have the higest degree of mastery
+1. Choose an exercise directory that matches your primary domain. This is the area in which you feel the most comfortable and have the highest degree of mastery
     * [frontend](frontend/instructions.md)
     * [backend](backend/instructions.md)
     * [data](data/instructions.md)
@@ -51,7 +53,6 @@ We know that the technical hiring processes in our industry are generally broken
     * a `ROADMAP.md` with what you would add/change if you had more time. Dream big.
     * a super-simple test suite if applicable (even one test is a bonus)
     * Some form of lightweight technical documentation (code comments are fine)
-    
 
 5. When complete email a link to the repository and any special instructions to hiring@heywelcome.com
 
