@@ -1,6 +1,7 @@
 ![welcome logo!](https://uploads-ssl.webflow.com/5e53726b33d36812c63e9d2c/5e54af479261fb9ed485f157_logo-horizontal.svg)
 
 ------------------
+
 # Hiring @ Welcome
 ![hiring process graphic!](https://welcome-public-assets.s3.us-east-2.amazonaws.com/welcome_hiring_process.png)
 
