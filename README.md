@@ -44,6 +44,7 @@ We know that the technical hiring processes in our industry are generally broken
 
 5. Be sure to include the following in your submission
     * a `README.md` with the following information
+        * **A few screenshots of the finished product**. Show off that work! 📸
         * The exercise you choose and why
         * A short explanation of what you built
         * How to test/demo/run (if applicable)
