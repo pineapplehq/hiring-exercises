@@ -1,40 +1,46 @@
 # Welcome Data Engineering/Science Product Exercise
 
 ```
-TIMEBOX:    2-3 hours max. We mean it! Set at timer and hard-stop at 3 hours ⏱
-LANGUAGES:  Any
-FRAMEWORKS: Any
-TESTS:      nice to have, but not mandatory
-DOCS:       nice to have, but not mandatory
+TIMEBOX:    2-4 hours max. We mean it! Set at timer and hard-stop at 4 hours ⏱
+LANGUAGES:  Python, SQL
+FRAMEWORKS: Jupyter
 ```
 
 ## Overview
 
-This exercise is to implement the best possible solution to one of the exercises below in the time alloted. We're evaluating your ability to take a set of requirements and spike a holistic solution that demonstrates the ability to take structured data and generate models that will help drive user behavior. 
+This exercise is to evaluate real-world compensation data. This is **NOT** a test of how well you know [Jupyter](https://jupyter.org/)/Python/SQL, nor should you try to impress us with overly clever and obtuse analysis. If you want to impress us use the time alloted to extract the maximum value from the data possible.
 
-This is **NOT** a test of how well you know Python/SQL, nor should you try to impress us with overly clever and obtuse solutions. If you want to impress us, build something that is intuitive and easy to debug/test/extend :smiley: .
+Submissions should be in the form of a [Jupyter notebook](https://jupyter.org/), however you are free to write custom SQL queries or functions if that better fits your work style. Ideally your solution would have some way to run locally and test the results so we can fully analyze your efforts.
 
-Ideally your solution would have some way to run locally and test the results so we can fully analyze your efforts.
+### Inspiration
+* [Github: jrenner/hacker-news-salaries-data](https://cdn.rawgit.com/jrenner/hacker-news-salaries-data/master/explore_salaries.html)
+* [Github: minimaxir/sfba-compensation](https://github.com/minimaxir/sfba-compensation/blob/master/angelist_sfbayarea_jobs.ipynb)
+* [Anaconda: gwinnen/sf-salaries-exercise](https://anaconda.org/gwinnen/sf-salaries-exercise/notebook)
+* [Kaggle: drgilermo/salary-analysis](https://www.kaggle.com/drgilermo/salary-analysis)
 
-## Choose **One** Of the following
+
+## Exercise
 
 ---
-
-> :rotating_light: :exclamation: :point_right: **Please use one of the salary datasets provided here for either exercise [/shared/salary_datasets](/shared/salary_datasets)** :point_left: :exclamation: :rotating_light:
-## Exercise A: Perform rudimentary analysis on unsanitized Compensation data
-
 The goal of this exercise is analyze a data set containing several CSVs of compensation data submitted by individuals via Google Sheets. This data has not been modified in any way from the original source.
 
-* Ingest and persist the compensation data locally. Use whatever database or persistence engine you are the most familiar with.
-* Validate that you can perform the following analyses. You can export the results of these queries via [Jupyter notebook](https://jupyter.org/), a CSV or attach screenshots of the the output
-  * Average compensation of roles where the role is some kind of engineer/IT professional
-  * Average, min, and max compensation per city/region 
-  * One interesting query of your choice (*average compensation by gender perhaps???*)
-### A few quick notes on submitting Exercise B
-
-* Ideally this exercise would use SQLite or Postgres, but any SQL database is OK
-* Feel free to upload the entire SQL dump (with schema) of the populated database, or create a script that creates the schema and populates the database with one or more of the provided salary data CSVs. Please do whatever makes the most sense given the time alloted.
-* If you'd like to use a scripting language like Python or Ruby along with an ORM to make this easier, thats fine with us!
+* Clean and format all [3 compensation data CSVs](/shared/salary_datasets) to use a common set of fields/attributes/columns containing at least the following...
+  * Role/Title
+  * Location
+  * Salary (base compensation) in $US dollars with cents
+  * Years experience
+  * Bonus
+* Validate that you can perform the following analyses and export the results via [Jupyter notebook](https://jupyter.org/), a CSV or attach screenshots of the the output
+  * **Compensation by Role**
+    * Find the average compensation of roles where the role is some kind of technical professional
+    * Visualize the relationship between compensation and role
+  * **Compensation by Geographic Region**
+    * Average, min, and max compensation per city/region
+    * Visualize the relationship between city and salary/base compensation
+  * **Compensation by Experience**
+    * Visualize the relationship between cash compensation and other forms of compensation
+    * Visualize the relationship between years of experience and total compensation (cash and bonus/equity)
+  * Visualize One interesting query/facet of your choice (*average compensation by gender perhaps???*)
 
 ---
 
