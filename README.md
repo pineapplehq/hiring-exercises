@@ -12,7 +12,7 @@ Hello! If you are reading this then we're likely in the process chatting with yo
 
 In order to move forward, we'd like to know a little about how you work. To that end, this repository contains a set of **short, time-boxed** (approximately 1-3 hours max) that you can use demonstrate your skills and abilities.
 
-These are **NOT** *coding exercises*. The goal of these exercises is to give you an asynchronous medium for demonstrating how you would break down a set of user stories and requirements into something akin to a rapid POC/spike. There is no grading or scoring, nor is it pass-fail, rather these are meant to serve a sample of your reductive thought processes as an engineer.
+These are **NOT** *coding exercises*. The goal of these exercises is to give you an asynchronous medium for demonstrating how you would break down a set of user stories and requirements into something akin to a rapid POC/spike. There is no grading or scoring, nor is it pass-fail, rather these are meant to serve a sample of your reductive thought processes as an engineer. We know that 3 hours is not a lot of time and you will both not be able to complete everything you'd like, and will feel pressure to do more. Please truly hold yourself to 3 hours max and make sure to create the `ROADMAP.md` file as outlined in the instructions below.
 
 ## First, a few words about asynchronous/take-home exercises
 
@@ -38,9 +38,9 @@ We know that the technical hiring processes in our industry are generally broken
 
 2. Read the `instructions.md` file in the matching directory. Be sure to read the instructions carefully and ask any clarifying questions either via [Github issues](https://github.com/pineapplehq/hiring-exercises/issues) or by emailing hiring@heywelcome.com
 
-3. Create a new **private repository** for your exercise and add [Raul @ Welcome](https://github.com/rgil90) and [Dan @ Welcome](https://github.com/thoughtpunch) as private collaborators.
+3. Create a new **private repository** for your exercise and add [Dan @ Welcome (Head of Engineering)](https://github.com/thoughtpunch) as a private collaborator.
 
-4. Complete as much of the exercise as you can in 3 hours or less. Unless otherwise specified in the `instructions.md` document, you can use any language, framework, or toolchain you wish, although ideally this would be Python, Javascript, and SQL (purely because those are the languages we use to build Welcome and will be the most familiar with)
+4. Complete as much of the exercise as you can in 3 hours or less. Unless otherwise specified in the `instructions.md` document, you can use any language, framework, or toolchain you wish, although ideally this would be Python, Javascript (ReactJS), and SQL (purely because those are the languages we use to build Welcome and will be the most familiar with)
 
 5. Be sure to include the following in your submission
     * a `README.md` with the following information
