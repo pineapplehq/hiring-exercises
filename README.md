@@ -38,7 +38,10 @@ We know that the technical hiring processes in our industry are generally broken
 
 2. Read the `instructions.md` file in the matching directory. Be sure to read the instructions carefully and ask any clarifying questions either via [Github issues](https://github.com/pineapplehq/hiring-exercises/issues) or by emailing hiring@heywelcome.com
 
-3. Create a new **private repository** for your exercise and add [Dan @ Welcome (Head of Engineering)](https://github.com/thoughtpunch) as a private collaborator.
+3. Create a new **private repository** for your exercise and add the Welcome hiring team members as private collaborators (We do this to preserve your anonymity so it's not obvious you are looking for a new tole.)
+    * [Dan @ Welcome (Head of Engineering)](https://github.com/thoughtpunch) 
+    * [Scott Burns](https://github.com/sburns)
+    * [Bart Proost](https://github.com/bartcheers)
 
 4. Complete as much of the exercise as you can in 3 hours or less. Unless otherwise specified in the `instructions.md` document, you can use any language, framework, or toolchain you wish, although ideally this would be Python, Javascript (ReactJS), and SQL (purely because those are the languages we use to build Welcome and will be the most familiar with)
 
