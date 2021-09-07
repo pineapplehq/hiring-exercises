@@ -1,6 +1,6 @@
 ![welcome logo!](https://dka575ofm4ao0.cloudfront.net/pages-transactional_logos/retina/186505/03_Welcome_Color_Black_Wordmark_Horizontal.png)
 
-For current open positions, see <https://angel.co/company/welcomehq> 👩‍💻
+For current open positions, see <https://www.linkedin.com/company/welcomehq/jobs/> 👩‍💻
 
 ------------------
 
